@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExercicioVetor1 {
+public class Negativos {
 
     public static void main(String[] args) {
 
